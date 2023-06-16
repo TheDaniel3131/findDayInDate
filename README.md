@@ -1,2 +1,2 @@
 # findDayInDate
-Finding The Day of The Week In Any Date With Python.
+Find out the day on any date you want! To use the program, please download at the latest packages!
